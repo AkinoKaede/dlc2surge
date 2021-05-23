@@ -4089,7 +4089,10 @@ DOMAIN-SUFFIX,umass.edu
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,yale.edu
 DOMAIN-SUFFIX,zenodo.org
+DOMAIN,database.asahi.com
 DOMAIN,elib.maruzen.co.jp
+DOMAIN,t21.nikkei.co.jp
+DOMAIN,t21ipau.nikkei.co.jp
 DOMAIN-SUFFIX,cern
 DOMAIN-SUFFIX,ams02.space
 DOMAIN-SUFFIX,cern.ch
