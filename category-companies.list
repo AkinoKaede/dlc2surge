@@ -3772,6 +3772,7 @@ DOMAIN-SUFFIX,picnik.com
 DOMAIN-SUFFIX,pittpatt.com
 DOMAIN-SUFFIX,pixate.com
 DOMAIN-SUFFIX,postini.com
+DOMAIN-SUFFIX,privacysandbox.com
 DOMAIN-SUFFIX,projectara.com
 DOMAIN-SUFFIX,projectbaseline.com
 DOMAIN-SUFFIX,publishproxy.com
@@ -3886,6 +3887,7 @@ DOMAIN,pagead-googlehosted.l.google.com
 DOMAIN,pki-goog.l.google.com
 DOMAIN,recaptcha.net
 DOMAIN,redirector.gvt1.com
+DOMAIN,regioninfo-pa.googleapis.com
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,settings.crashlytics.com
