@@ -6959,6 +6959,8 @@ DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,gitlab.com
@@ -12457,6 +12459,9 @@ DOMAIN-SUFFIX,toolforge.org
 DOMAIN-SUFFIX,wikimediacloud.org
 DOMAIN-SUFFIX,wmcloud.org
 DOMAIN-SUFFIX,wmflabs.org
+DOMAIN-SUFFIX,espressif.com
+DOMAIN-SUFFIX,esp32.com
+DOMAIN-SUFFIX,esp8266.com
 DOMAIN-SUFFIX,famifun.com.tw
 DOMAIN-SUFFIX,family.co.jp
 DOMAIN-SUFFIX,family.com.tw
