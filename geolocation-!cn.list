@@ -3512,7 +3512,6 @@ DOMAIN-SUFFIX,farfetch.com.cn
 DOMAIN-SUFFIX,farfetch.net
 DOMAIN-SUFFIX,farfetch.net.cn
 DOMAIN-SUFFIX,fflnk.net
-DOMAIN-SUFFIX,gfashion.com
 DOMAIN-SUFFIX,gucci
 DOMAIN-SUFFIX,chimeforchange.org
 DOMAIN-SUFFIX,gucci.cn
@@ -5733,6 +5732,8 @@ DOMAIN-SUFFIX,gtv.org
 DOMAIN-SUFFIX,gtv1.org
 DOMAIN-SUFFIX,gclubs.com
 DOMAIN-SUFFIX,g-tvapp.com
+DOMAIN-SUFFIX,gfashion.com
+DOMAIN-SUFFIX,gettr.com
 DOMAIN-SUFFIX,apexprint.com.hk
 DOMAIN-SUFFIX,eprc.com.hk
 DOMAIN-SUFFIX,etbc.com.hk
@@ -10928,6 +10929,7 @@ DOMAIN,adservice.google.com
 DOMAIN,app-measurement.com
 DOMAIN,beacons.gcp.gvt2.com
 DOMAIN,beacons.gvt2.com
+DOMAIN,beacons2.gvt2.com
 DOMAIN,beacons3.gvt2.com
 DOMAIN,c.admob.com
 DOMAIN,c.android.clients.google.com
@@ -10945,12 +10947,15 @@ DOMAIN,doubleclick.net
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
+DOMAIN,g1.gstatic.com
+DOMAIN,g2.gstatic.com
 DOMAIN,google-analytics.com
 DOMAIN,googleadservices.com
 DOMAIN,googleanalytics.com
 DOMAIN,googlesyndication.com
 DOMAIN,googletagmanager.com
 DOMAIN,googletagservices.com
+DOMAIN,gstaticadssl.l.google.com
 DOMAIN,gtm.oasisfeng.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,ocsp.pki.goog
@@ -10968,7 +10973,9 @@ DOMAIN,toolbarqueries.google.com
 DOMAIN,tools.google.com
 DOMAIN,tools.l.google.com
 DOMAIN,translate.googleapis.com
+DOMAIN,translation.googleapis.com
 DOMAIN,update.googleapis.com
+DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.gstatic.com
 DOMAIN-SUFFIX,hinet.net
