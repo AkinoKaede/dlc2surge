@@ -1,3 +1,10 @@
+DOMAIN-SUFFIX,amazonworkdocs.cn
+DOMAIN-SUFFIX,amazonworkdocs.com.cn
+DOMAIN-SUFFIX,kindle.cn
+DOMAIN-SUFFIX,kindleoasis.cn
+DOMAIN-SUFFIX,kindleoasis.com.cn
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
 DOMAIN-SUFFIX,aboutamazon.cn
 DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
@@ -20,12 +27,5 @@ DOMAIN-SUFFIX,primeday.cn
 DOMAIN-SUFFIX,primeday.com.cn
 DOMAIN-SUFFIX,yamaxun.cn
 DOMAIN-SUFFIX,z.cn
-DOMAIN-SUFFIX,amazonworkdocs.cn
-DOMAIN-SUFFIX,amazonworkdocs.com.cn
-DOMAIN-SUFFIX,kindle.cn
-DOMAIN-SUFFIX,kindleoasis.cn
-DOMAIN-SUFFIX,kindleoasis.com.cn
-DOMAIN-SUFFIX,amazonprimevideo.cn
-DOMAIN-SUFFIX,amazonprimevideo.com.cn
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,images-cn-8.ssl-images-amazon.com
