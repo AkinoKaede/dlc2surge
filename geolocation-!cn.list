@@ -4993,6 +4993,7 @@ DOMAIN-SUFFIX,payhulu.com
 DOMAIN-SUFFIX,registerhulu.com
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
+DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
@@ -7472,7 +7473,6 @@ DOMAIN-SUFFIX,wholefoodsmarket.com
 DOMAIN-SUFFIX,wholekidsfoundation.org
 DOMAIN-SUFFIX,wholeplanetfoundation.org
 DOMAIN-SUFFIX,amazon
-DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,xn--cckwcxetd
 DOMAIN-SUFFIX,xn--jlq480n2rg
 DOMAIN-SUFFIX,yamaxun
