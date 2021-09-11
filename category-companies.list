@@ -2451,6 +2451,8 @@ DOMAIN-SUFFIX,dell
 DOMAIN-SUFFIX,dell-brand.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dellcdn.com
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,atscaleconference.com
 DOMAIN-SUFFIX,botorch.org
@@ -5293,6 +5295,7 @@ DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuserlive.net
 DOMAIN-SUFFIX,vkuservideo.com
 DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,g-technology.com
 DOMAIN-SUFFIX,sandisk.ae
 DOMAIN-SUFFIX,sandisk.it
