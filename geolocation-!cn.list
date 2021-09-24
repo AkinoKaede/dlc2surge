@@ -2954,6 +2954,7 @@ DOMAIN-SUFFIX,vector.im
 DOMAIN-SUFFIX,signal.art
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,signalusers.org
+DOMAIN-SUFFIX,whispersystems.org
 DOMAIN-SUFFIX,slack-core.com
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack-files.com
@@ -3145,6 +3146,7 @@ DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmmapis.com
+DOMAIN,api-p.videomarket.jp
 DOMAIN-SUFFIX,21centuryaccess.com
 DOMAIN-SUFFIX,4ebaytraders.com
 DOMAIN-SUFFIX,adcommerce.cn
@@ -5323,6 +5325,7 @@ DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
 DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-SUFFIX,bbcmedia.co.uk
 DOMAIN-SUFFIX,bbc.net.uk
+DOMAIN-SUFFIX,bbcpersian.com
 DOMAIN,vod-dash-ww-live.akamaized.net
 DOMAIN,vod-thumb-ww-live.akamaized.net
 DOMAIN,vod-dash-uk-live.akamaized.net
@@ -12628,17 +12631,23 @@ DOMAIN-SUFFIX,mcdonaldsarabia.com
 DOMAIN-SUFFIX,mcdonaldsparties.co.nz
 DOMAIN-SUFFIX,mcdonaldsparties.com.au
 DOMAIN-SUFFIX,xn--qhrx81fxh2a.xn--55qx5d.hk
+DOMAIN-SUFFIX,dyncdn.me
 DOMAIN-SUFFIX,rarbg.me
 DOMAIN-SUFFIX,rarbg.to
 DOMAIN-SUFFIX,proxyrarbg.org
 DOMAIN-SUFFIX,rarbg.is
 DOMAIN-SUFFIX,rarbgaccess.org
+DOMAIN-SUFFIX,rarbgaccessed.org
+DOMAIN-SUFFIX,rarbgget.org
 DOMAIN-SUFFIX,rarbggo.org
 DOMAIN-SUFFIX,rarbgmirror.com
 DOMAIN-SUFFIX,rarbgmirror.org
 DOMAIN-SUFFIX,rarbgproxy.org
 DOMAIN-SUFFIX,rarbgprx.org
+DOMAIN-SUFFIX,rarbgto.org
 DOMAIN-SUFFIX,rarbgunblock.com
+DOMAIN-SUFFIX,rarbgunblock.org
+DOMAIN-SUFFIX,rarbgway.org
 DOMAIN-SUFFIX,aerogard.com.au
 DOMAIN-SUFFIX,aerogard.com.cn
 DOMAIN-SUFFIX,aerogardcn.com
