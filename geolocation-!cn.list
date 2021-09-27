@@ -4014,6 +4014,12 @@ DOMAIN-SUFFIX,universitypressscholarship.com
 DOMAIN-SUFFIX,veryshortintroductions.com
 DOMAIN-SUFFIX,serialssolutions.com
 DOMAIN-SUFFIX,proquest.com
+DOMAIN-SUFFIX,sci-hub.se
+DOMAIN-SUFFIX,sci-hub.ee
+DOMAIN-SUFFIX,sci-hub.it.nf
+DOMAIN-SUFFIX,sci-hub.mksa.top
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,sci.hubg.org
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,sciencedirectassets.com
 DOMAIN-SUFFIX,apress.com
@@ -4131,6 +4137,13 @@ DOMAIN-SUFFIX,khanacademy.org
 DOMAIN-SUFFIX,kastatic.org
 DOMAIN-SUFFIX,knovel.com
 DOMAIN-SUFFIX,laracasts.com
+DOMAIN-SUFFIX,libgen.life
+DOMAIN-SUFFIX,libgen.fun
+DOMAIN-SUFFIX,gen.lib.rus.ec
+DOMAIN-SUFFIX,libgen.is
+DOMAIN-SUFFIX,libgen.me
+DOMAIN-SUFFIX,libgen.rs
+DOMAIN-SUFFIX,libgen.st
 DOMAIN-SUFFIX,masterclass.com
 DOMAIN-SUFFIX,mzed.com
 DOMAIN-SUFFIX,oreil.ly
@@ -5112,6 +5125,8 @@ DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,heads4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,subscene.com
+DOMAIN,i.jeded.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,wimpmusic.com
@@ -5121,6 +5136,8 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,dogatch.jp
 DOMAIN-SUFFIX,gorin.jp
 DOMAIN-SUFFIX,screens-lab.jp
@@ -9179,6 +9196,7 @@ DOMAIN,client-api.itunes.apple.com
 DOMAIN,cma.itunes.apple.com
 DOMAIN,communities.apple.com
 DOMAIN,discussionschinese.apple.com
+DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN,gspe12-cn-ssl.ls.apple.com
@@ -9692,6 +9710,7 @@ DOMAIN-SUFFIX,vmtestdrive.com
 DOMAIN-SUFFIX,vmw.com
 DOMAIN-SUFFIX,vmware-cloudmanagement.com
 DOMAIN-SUFFIX,vmware-techcenter.com
+DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vmware20mosaic.com
 DOMAIN-SUFFIX,vmwareausnews.com
 DOMAIN-SUFFIX,vmwarecertificationvideos.com

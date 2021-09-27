@@ -870,6 +870,8 @@ DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,heads4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,subscene.com
+DOMAIN,i.jeded.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,wimpmusic.com
@@ -879,6 +881,8 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,dogatch.jp
 DOMAIN-SUFFIX,gorin.jp
 DOMAIN-SUFFIX,screens-lab.jp
