@@ -3783,9 +3783,17 @@ DOMAIN-SUFFIX,nordstrom.com
 DOMAIN-SUFFIX,nordstrommedia.com
 DOMAIN-SUFFIX,ecimg.tw
 DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pchomeec.tw
+DOMAIN-SUFFIX,pchomeonline.com.tw
 DOMAIN-SUFFIX,pchomepay.com.tw
 DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,pcstore.com.tw
+DOMAIN-SUFFIX,piapp.com.tw
+DOMAIN-SUFFIX,rakuya.com.tw
+DOMAIN-SUFFIX,tagapie.com.tw
+DOMAIN-SUFFIX,toget.com.tw
 DOMAIN,ecapi-pchome.cdn.hinet.net
+DOMAIN,pchomeonline.com.tw
 DOMAIN-SUFFIX,r10s.com
 DOMAIN-SUFFIX,r10s.jp
 DOMAIN-SUFFIX,rakuten-static.com
@@ -4960,6 +4968,9 @@ DOMAIN-SUFFIX,streamingdisney.net
 DOMAIN-SUFFIX,thestationbymaker.com
 DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,watchdisneyfe.com
+DOMAIN-SUFFIX,gogocdn.net
+DOMAIN-SUFFIX,gogoanime.vc
+DOMAIN-SUFFIX,gogo-load.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,forthethrone.com
 DOMAIN-SUFFIX,hbo.com
@@ -5249,6 +5260,8 @@ DOMAIN-SUFFIX,hkgolden.com
 DOMAIN-SUFFIX,hkgolden.media
 DOMAIN-SUFFIX,lih.kg
 DOMAIN-SUFFIX,lihkg.com
+DOMAIN-SUFFIX,5i01.com
+DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,pixanalytics.com
 DOMAIN-SUFFIX,pixfs.net
@@ -6969,6 +6982,7 @@ DOMAIN-SUFFIX,zohowebstatic.com
 DOMAIN-SUFFIX,zoom.com
 DOMAIN-SUFFIX,zoom.com.cn
 DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,anaconda.cloud
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anaconda.org
 DOMAIN-SUFFIX,conda.io
