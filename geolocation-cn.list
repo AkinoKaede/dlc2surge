@@ -440,6 +440,7 @@ DOMAIN-SUFFIX,jcloudcache.com
 DOMAIN-SUFFIX,jcloudcs.com
 DOMAIN-SUFFIX,jclouddn.com
 DOMAIN-SUFFIX,jcloudec.com
+DOMAIN-SUFFIX,jcloudedge.com
 DOMAIN-SUFFIX,jcloudlb.com
 DOMAIN-SUFFIX,jcloudlive.com
 DOMAIN-SUFFIX,jcloudlv.com
@@ -1113,6 +1114,7 @@ DOMAIN-SUFFIX,aliyun-iot-share.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncdn.com
 DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,ica-alliance.org
 DOMAIN-SUFFIX,kunlunaq.com
@@ -1136,6 +1138,7 @@ DOMAIN-SUFFIX,kunlunta.com
 DOMAIN-SUFFIX,kunlunvi.com
 DOMAIN-SUFFIX,kunlunwe.com
 DOMAIN-SUFFIX,mxhichina.com
+DOMAIN-SUFFIX,myalicdn.com
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,dingding.xin
 DOMAIN-SUFFIX,dingtalk.cn
@@ -1471,6 +1474,7 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,mipcdn.com
 DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,quyaoya.com
+DOMAIN-SUFFIX,shifen.com
 DOMAIN-SUFFIX,smartapps.cn
 DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,tiebaimg.com
@@ -1882,6 +1886,7 @@ DOMAIN-SUFFIX,tencent.com.cn
 DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,tencent.net.cn
 DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencentyun.com
 DOMAIN-SUFFIX,tenpay.com
