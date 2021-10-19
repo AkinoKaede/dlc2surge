@@ -205,6 +205,8 @@ DOMAIN-SUFFIX,metro.co.uk
 DOMAIN-SUFFIX,mol.im
 DOMAIN-SUFFIX,thisismoney.co.uk
 DOMAIN-SUFFIX,thismon.ee
+DOMAIN-SUFFIX,dw.com
+DOMAIN,deutschewelle.h-cdn.com
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,economistgroup.com
 DOMAIN-SUFFIX,economistgroupcareers.com
@@ -655,6 +657,8 @@ DOMAIN-SUFFIX,theweek.in
 DOMAIN-SUFFIX,vanitaonline.com
 DOMAIN-SUFFIX,vanitha.in
 DOMAIN-SUFFIX,vanithaveedu.com
+DOMAIN-SUFFIX,manoto1.tv
+DOMAIN-SUFFIX,manototv.com
 DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,matters.one
 DOMAIN-SUFFIX,mediachinese.com
@@ -1216,7 +1220,6 @@ DOMAIN-SUFFIX,coolloud.org.tw
 DOMAIN-SUFFIX,cup.com.hk
 DOMAIN-SUFFIX,cw.com.tw
 DOMAIN-SUFFIX,d100.net
-DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,ebc.net.tw
 DOMAIN-SUFFIX,ettoday.net
 DOMAIN-SUFFIX,eventsinfocus.org

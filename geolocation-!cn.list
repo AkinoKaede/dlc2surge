@@ -3834,6 +3834,7 @@ DOMAIN-SUFFIX,walmartimages.com
 DOMAIN-SUFFIX,wmt.co
 DOMAIN-SUFFIX,wish.com
 DOMAIN-SUFFIX,readmoo.com
+DOMAIN-SUFFIX,anandtech.com
 DOMAIN-SUFFIX,betterexplained.com
 DOMAIN-SUFFIX,brilliant.org
 DOMAIN-SUFFIX,apa.org
@@ -4124,6 +4125,7 @@ DOMAIN-SUFFIX,dotcernpilot.info
 DOMAIN-SUFFIX,ippog.org
 DOMAIN-SUFFIX,linearcollider.org
 DOMAIN,chinapower.csis.org
+DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,code.org
 DOMAIN-SUFFIX,codecademy.com
 DOMAIN-SUFFIX,coursera-for-business.org
@@ -4154,6 +4156,7 @@ DOMAIN-SUFFIX,libgen.is
 DOMAIN-SUFFIX,libgen.me
 DOMAIN-SUFFIX,libgen.rs
 DOMAIN-SUFFIX,libgen.st
+DOMAIN-SUFFIX,lifewire.com
 DOMAIN-SUFFIX,masterclass.com
 DOMAIN-SUFFIX,mzed.com
 DOMAIN-SUFFIX,oreil.ly
@@ -4257,6 +4260,9 @@ DOMAIN-SUFFIX,themathsfactor.com
 DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com
 DOMAIN-SUFFIX,sitepoint.com
 DOMAIN-SUFFIX,skillshare.com
+DOMAIN-SUFFIX,spiceworks.com
+DOMAIN-SUFFIX,spiceworksstatic.com
+DOMAIN-SUFFIX,techtimes.com
 DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,udacity.com
@@ -5246,6 +5252,10 @@ DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN,paper-attachments.s3.amazonaws.com
 DOMAIN-SUFFIX,gfycat.com
+DOMAIN-SUFFIX,imagecurl.com
+DOMAIN-SUFFIX,imagecurl.org
+DOMAIN-SUFFIX,imgcrl.org
+DOMAIN-SUFFIX,imageshack.com
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,imgbb.com
 DOMAIN-SUFFIX,simgbb.com
@@ -5510,6 +5520,8 @@ DOMAIN-SUFFIX,metro.co.uk
 DOMAIN-SUFFIX,mol.im
 DOMAIN-SUFFIX,thisismoney.co.uk
 DOMAIN-SUFFIX,thismon.ee
+DOMAIN-SUFFIX,dw.com
+DOMAIN,deutschewelle.h-cdn.com
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,economistgroup.com
 DOMAIN-SUFFIX,economistgroupcareers.com
@@ -5960,6 +5972,8 @@ DOMAIN-SUFFIX,theweek.in
 DOMAIN-SUFFIX,vanitaonline.com
 DOMAIN-SUFFIX,vanitha.in
 DOMAIN-SUFFIX,vanithaveedu.com
+DOMAIN-SUFFIX,manoto1.tv
+DOMAIN-SUFFIX,manototv.com
 DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,matters.one
 DOMAIN-SUFFIX,mediachinese.com
@@ -6478,7 +6492,6 @@ DOMAIN-SUFFIX,coolloud.org.tw
 DOMAIN-SUFFIX,cup.com.hk
 DOMAIN-SUFFIX,cw.com.tw
 DOMAIN-SUFFIX,d100.net
-DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,ebc.net.tw
 DOMAIN-SUFFIX,ettoday.net
 DOMAIN-SUFFIX,eventsinfocus.org
@@ -9650,6 +9663,7 @@ DOMAIN-SUFFIX,mydirectvchannels.com
 DOMAIN-SUFFIX,redzonechannel.com
 DOMAIN-SUFFIX,txdirectv.com
 DOMAIN-SUFFIX,xandr.com
+DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bwh8.net
@@ -12844,6 +12858,13 @@ DOMAIN-SUFFIX,toolforge.org
 DOMAIN-SUFFIX,wikimediacloud.org
 DOMAIN-SUFFIX,wmcloud.org
 DOMAIN-SUFFIX,wmflabs.org
+DOMAIN-SUFFIX,avxhm.se
+DOMAIN-SUFFIX,avh.world
+DOMAIN-SUFFIX,avxde.org
+DOMAIN-SUFFIX,avxhm.is
+DOMAIN-SUFFIX,avxlive.icu
+DOMAIN-SUFFIX,xsava.xyz
+DOMAIN-SUFFIX,zavat.pw
 DOMAIN-SUFFIX,espressif.com
 DOMAIN-SUFFIX,esp32.com
 DOMAIN-SUFFIX,esp8266.com
@@ -12860,6 +12881,7 @@ DOMAIN-SUFFIX,edcity.hk
 DOMAIN-SUFFIX,hkedcity.net
 DOMAIN-SUFFIX,hkreadingcity.net
 DOMAIN-SUFFIX,huanghuagang.org
+DOMAIN-SUFFIX,lavteam.org
 DOMAIN-SUFFIX,mcd
 DOMAIN-SUFFIX,mcdonalds
 DOMAIN-SUFFIX,4008-517-517.cn
