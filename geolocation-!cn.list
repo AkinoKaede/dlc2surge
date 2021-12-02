@@ -5254,6 +5254,9 @@ DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,0x0.st
+DOMAIN-SUFFIX,casimages.com
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudinary.net
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropbox.com
@@ -5284,6 +5287,8 @@ DOMAIN-SUFFIX,simgbb.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imgurinc.com
 DOMAIN-SUFFIX,pixhost.to
+DOMAIN-SUFFIX,postimages.org
+DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,pstorage.space
 DOMAIN-SUFFIX,rmbl.ws
 DOMAIN-SUFFIX,rumble.com
@@ -11928,6 +11933,7 @@ DOMAIN-SUFFIX,microsoft.lt
 DOMAIN-SUFFIX,microsoft.lu
 DOMAIN-SUFFIX,microsoft.lv
 DOMAIN-SUFFIX,microsoft.md
+DOMAIN-SUFFIX,microsoft.net
 DOMAIN-SUFFIX,microsoft.pl
 DOMAIN-SUFFIX,microsoft.pt
 DOMAIN-SUFFIX,microsoft.red
