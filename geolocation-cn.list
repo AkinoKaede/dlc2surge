@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
 DOMAIN-SUFFIX,w.cnzz.com
+DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,baijiayun.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,bootcdn.cn
@@ -1638,6 +1639,7 @@ DOMAIN-SUFFIX,heytap.com
 DOMAIN-SUFFIX,heytapcs.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,heytapimage.com
+DOMAIN-SUFFIX,heytapmobi.com
 DOMAIN-SUFFIX,myoppo.com
 DOMAIN-SUFFIX,nearme.com.cn
 DOMAIN-SUFFIX,oppo.cn
@@ -1871,6 +1873,7 @@ DOMAIN-SUFFIX,qq.xn--fiqs8s
 DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
 DOMAIN-SUFFIX,apcdns.net
 DOMAIN-SUFFIX,cdn-go.cn
+DOMAIN-SUFFIX,cdntip.com
 DOMAIN-SUFFIX,cdntips.com
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,foxmail.com.cn
@@ -2134,6 +2137,7 @@ DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,aiskycn.com
 DOMAIN-SUFFIX,aiyunxiao.com
 DOMAIN-SUFFIX,aizhan.com
+DOMAIN-SUFFIX,aldwx.com
 DOMAIN-SUFFIX,alittle-tea.com
 DOMAIN-SUFFIX,allyes.com
 DOMAIN-SUFFIX,anfensi.com
@@ -2737,6 +2741,7 @@ DOMAIN-SUFFIX,qudong.com
 DOMAIN-SUFFIX,qugame.com
 DOMAIN-SUFFIX,qunar.com
 DOMAIN-SUFFIX,qunarzz.com
+DOMAIN-SUFFIX,qunjielong.com
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,rfchost.com
 DOMAIN-SUFFIX,rockyenglish.com
@@ -2761,6 +2766,7 @@ DOMAIN-SUFFIX,shanbay.com
 DOMAIN-SUFFIX,shang360.com
 DOMAIN-SUFFIX,shangc.net
 DOMAIN-SUFFIX,shanghairc.com
+DOMAIN-SUFFIX,shangshi360.com
 DOMAIN-SUFFIX,shangzhibo.tv
 DOMAIN-SUFFIX,shanshuihotel.com
 DOMAIN-SUFFIX,sharejs.com
