@@ -7052,6 +7052,7 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okaapps.com
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,osdn.net
 DOMAIN-SUFFIX,pastebin.com
@@ -9450,6 +9451,7 @@ DOMAIN,adcdownload.apple.com
 DOMAIN,appldnld.apple.com
 DOMAIN,appldnld.g.aaplimg.com
 DOMAIN,apps.mzstatic.com
+DOMAIN,api-cn.apple-mapkit.com
 DOMAIN,cdn-cn1.apple-mapkit.com
 DOMAIN,cdn-cn2.apple-mapkit.com
 DOMAIN,cdn-cn3.apple-mapkit.com
