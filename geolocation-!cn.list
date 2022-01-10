@@ -7052,11 +7052,11 @@ DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,bitballoon.com
-DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okaapps.com
 DOMAIN-SUFFIX,opencollective.com
@@ -7248,6 +7248,7 @@ DOMAIN-SUFFIX,snapstore.io
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,ubuntu.net
 DOMAIN-SUFFIX,ubuntuforums.org
+DOMAIN-SUFFIX,ubuntu-touch.io
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,dart.dev
 DOMAIN-SUFFIX,dartlang.org
