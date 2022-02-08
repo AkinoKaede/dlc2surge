@@ -855,8 +855,6 @@ DOMAIN-SUFFIX,ths123.com
 DOMAIN-SUFFIX,dzh.com.cn
 DOMAIN-SUFFIX,gw.com.cn
 DOMAIN-SUFFIX,yundzh.com
-DOMAIN-SUFFIX,csdl.ac.cn
-DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,fuwai.com
 DOMAIN-SUFFIX,pkuh6.cn
 DOMAIN-SUFFIX,puh3.net.cn
@@ -973,6 +971,8 @@ DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN,moocs.unipus.cn
 DOMAIN,opencourse.pku.edu.cn
 DOMAIN,study.163.com
+DOMAIN-SUFFIX,csdl.ac.cn
+DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,apabi.com
 DOMAIN-SUFFIX,cnthinkers.com

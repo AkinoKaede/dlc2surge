@@ -852,8 +852,6 @@ DOMAIN-SUFFIX,ads.pubmatic.com
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
-DOMAIN-SUFFIX,gfw.press
-DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freewechat.com
@@ -880,6 +878,7 @@ DOMAIN-SUFFIX,ffprofile.com
 DOMAIN-SUFFIX,freenetproject.org
 DOMAIN-SUFFIX,fteproxy.org
 DOMAIN-SUFFIX,geti2p.net
+DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,jitsi.org
@@ -3892,12 +3891,18 @@ DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,doi.org
 DOMAIN-SUFFIX,doi.info
+DOMAIN-SUFFIX,clinicalkey.com
 DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,elsevier-ae.com
 DOMAIN-SUFFIX,elsevier.com
 DOMAIN-SUFFIX,elsevier.io
 DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,evise.com
+DOMAIN-SUFFIX,fundinginstitutional.com
+DOMAIN-SUFFIX,knovel.com
+DOMAIN-SUFFIX,mendeley.com
+DOMAIN-SUFFIX,reaxys.com
+DOMAIN-SUFFIX,scival.com
 DOMAIN-SUFFIX,scopus.com
 DOMAIN,scholar.google.ae
 DOMAIN,scholar.google.at
@@ -4127,6 +4132,7 @@ DOMAIN-SUFFIX,literatumonline.com
 DOMAIN-SUFFIX,mdpi.com
 DOMAIN-SUFFIX,medrxiv.org
 DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,naturemag.org
 DOMAIN-SUFFIX,nejm.org
 DOMAIN-SUFFIX,neurology.org
 DOMAIN-SUFFIX,nii.ac.jp
@@ -4142,6 +4148,7 @@ DOMAIN-SUFFIX,royalsocietypublishing.org
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,scholarpedia.org
+DOMAIN-SUFFIX,science.com
 DOMAIN-SUFFIX,science.org
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,scientificamerican.com
@@ -4615,6 +4622,11 @@ DOMAIN,menu-static.gog-statics.com
 DOMAIN,productcard.gog-statics.com
 DOMAIN,static-login.gog-statics.com
 DOMAIN,www4-static.gog-statics.com
+DOMAIN-SUFFIX,mihayou.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,benghuai.com
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,amiibo.com
 DOMAIN-SUFFIX,ayudanintendo.com
@@ -12955,6 +12967,7 @@ DOMAIN-SUFFIX,conair.me
 DOMAIN-SUFFIX,cordcloud.org
 DOMAIN-SUFFIX,ctyun.online
 DOMAIN-SUFFIX,geph.io
+DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,maying.co
 DOMAIN-SUFFIX,mocloudplus.com
 DOMAIN-SUFFIX,mray.club

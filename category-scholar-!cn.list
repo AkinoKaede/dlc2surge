@@ -11,12 +11,18 @@ DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,doi.org
 DOMAIN-SUFFIX,doi.info
+DOMAIN-SUFFIX,clinicalkey.com
 DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,elsevier-ae.com
 DOMAIN-SUFFIX,elsevier.com
 DOMAIN-SUFFIX,elsevier.io
 DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,evise.com
+DOMAIN-SUFFIX,fundinginstitutional.com
+DOMAIN-SUFFIX,knovel.com
+DOMAIN-SUFFIX,mendeley.com
+DOMAIN-SUFFIX,reaxys.com
+DOMAIN-SUFFIX,scival.com
 DOMAIN-SUFFIX,scopus.com
 DOMAIN,scholar.google.ae
 DOMAIN,scholar.google.at
@@ -247,6 +253,7 @@ DOMAIN-SUFFIX,literatumonline.com
 DOMAIN-SUFFIX,mdpi.com
 DOMAIN-SUFFIX,medrxiv.org
 DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,naturemag.org
 DOMAIN-SUFFIX,nejm.org
 DOMAIN-SUFFIX,neurology.org
 DOMAIN-SUFFIX,nii.ac.jp
@@ -262,6 +269,7 @@ DOMAIN-SUFFIX,royalsocietypublishing.org
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,scholarpedia.org
+DOMAIN-SUFFIX,science.com
 DOMAIN-SUFFIX,science.org
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,scientificamerican.com
