@@ -988,6 +988,11 @@ DOMAIN-SUFFIX,ccf.org.cn
 DOMAIN-SUFFIX,chinabooktrading.com
 DOMAIN-SUFFIX,cidp.com.cn
 DOMAIN-SUFFIX,cnbksy.com
+DOMAIN-SUFFIX,cnsciedu.com
+DOMAIN-SUFFIX,ibcet.org
+DOMAIN-SUFFIX,medicexam.net
+DOMAIN-SUFFIX,umajor.net
+DOMAIN-SUFFIX,vipexam.org
 DOMAIN-SUFFIX,cnthinkers.com
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,crggcn.com
@@ -998,6 +1003,7 @@ DOMAIN-SUFFIX,er07.com
 DOMAIN-SUFFIX,ersjk.com
 DOMAIN-SUFFIX,sbsjk.com
 DOMAIN-SUFFIX,gtarsc.com
+DOMAIN-SUFFIX,htcases.com
 DOMAIN-SUFFIX,hwshu.com
 DOMAIN-SUFFIX,hytung.cn
 DOMAIN-SUFFIX,incopat.com
@@ -1007,11 +1013,13 @@ DOMAIN-SUFFIX,nmrdata.com
 DOMAIN-SUFFIX,nssd.cn
 DOMAIN-SUFFIX,pkulaw.com
 DOMAIN-SUFFIX,rdfybk.com
+DOMAIN-SUFFIX,sciencechina.cn
 DOMAIN-SUFFIX,sslibrary.com
 DOMAIN-SUFFIX,tokyotrial.cn
 DOMAIN-SUFFIX,twscholar.com
 DOMAIN-SUFFIX,unihan.com.cn
 DOMAIN-SUFFIX,wenxin-ge.com
+DOMAIN,www.libvideo.com
 DOMAIN-SUFFIX,huijistatic.com
 DOMAIN-SUFFIX,huijiwiki.com
 DOMAIN-SUFFIX,moegirl.org
