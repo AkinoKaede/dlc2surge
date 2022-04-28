@@ -5223,6 +5223,7 @@ DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,genshinimpact.com
 DOMAIN-SUFFIX,honkaiimpact3.com
 DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,n0vadesktop.com
@@ -7739,6 +7740,7 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,gitlab.com
