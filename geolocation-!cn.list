@@ -870,6 +870,7 @@ DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,akasha.world
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
+DOMAIN-SUFFIX,censorship.ai
 DOMAIN-SUFFIX,dat.foundation
 DOMAIN-SUFFIX,democracy.earth
 DOMAIN-SUFFIX,eff.org
@@ -878,7 +879,9 @@ DOMAIN-SUFFIX,ffprofile.com
 DOMAIN-SUFFIX,freenetproject.org
 DOMAIN-SUFFIX,fteproxy.org
 DOMAIN-SUFFIX,geti2p.net
+DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gfw.report
+DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,jitsi.org
@@ -896,6 +899,7 @@ DOMAIN-SUFFIX,tribler.org
 DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,twister.net.co
 DOMAIN-SUFFIX,uproxy.org
+DOMAIN-SUFFIX,vpngate.org
 DOMAIN-SUFFIX,vuvuzela.io
 DOMAIN-SUFFIX,whonix.org
 DOMAIN-SUFFIX,wikileaks.org
@@ -11498,6 +11502,7 @@ DOMAIN,www.apple.com
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,asus.com.cn
 DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,accbusiness.com
