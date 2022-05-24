@@ -881,7 +881,6 @@ DOMAIN-SUFFIX,fteproxy.org
 DOMAIN-SUFFIX,geti2p.net
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gfw.report
-DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,jitsi.org
@@ -6866,6 +6865,10 @@ DOMAIN-SUFFIX,cdnlab.live
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,javbus22.com
+DOMAIN-SUFFIX,javcdn.cc
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,jdbimgs.com
+DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN-SUFFIX,javfinder.sh
 DOMAIN-SUFFIX,findercdn.me
 DOMAIN-SUFFIX,o0-2.com
@@ -7774,7 +7777,6 @@ DOMAIN-SUFFIX,jav321.com
 DOMAIN-SUFFIX,jav777.cc
 DOMAIN-SUFFIX,javcc.cc
 DOMAIN-SUFFIX,javcc.com
-DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javdoe.com
 DOMAIN-SUFFIX,javdove8.xyz
 DOMAIN-SUFFIX,javfinder.is
@@ -7963,6 +7965,7 @@ DOMAIN-SUFFIX,mingkyaa.com
 DOMAIN-SUFFIX,minnano-av.com
 DOMAIN-SUFFIX,minuporno.com
 DOMAIN-SUFFIX,mirar.xxx
+DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mitnaka.com
 DOMAIN-SUFFIX,mixasiansex.com
 DOMAIN-SUFFIX,mixmaturesex.com
@@ -8486,6 +8489,7 @@ DOMAIN-SUFFIX,tnaflix.com
 DOMAIN-SUFFIX,tokyomotion.net
 DOMAIN-SUFFIX,tomovie.net
 DOMAIN-SUFFIX,toomadporn.pro
+DOMAIN-SUFFIX,topescortbabes.com
 DOMAIN-SUFFIX,topface.com
 DOMAIN-SUFFIX,topfreepornvideos.com
 DOMAIN-SUFFIX,tophd.xxx
@@ -8547,9 +8551,11 @@ DOMAIN-SUFFIX,twinktube.sexy
 DOMAIN-SUFFIX,twistys.com
 DOMAIN-SUFFIX,twlegs.com
 DOMAIN-SUFFIX,twoo.com
+DOMAIN-SUFFIX,tx5254.com
+DOMAIN-SUFFIX,tx5ptbp7.com
+DOMAIN-SUFFIX,txvlog.com
 DOMAIN-SUFFIX,txxx.com
 DOMAIN-SUFFIX,u9a9.com
-DOMAIN-SUFFIX,uganda.topescortbabes.com
 DOMAIN-SUFFIX,uhtube.me
 DOMAIN-SUFFIX,ujapanesesex.com
 DOMAIN-SUFFIX,ultradonkey.com
@@ -8746,6 +8752,7 @@ DOMAIN-SUFFIX,yaoyaomumu.com
 DOMAIN-SUFFIX,yaptube.com
 DOMAIN-SUFFIX,yasarang.net
 DOMAIN-SUFFIX,yatong.info
+DOMAIN-SUFFIX,yavtube.com
 DOMAIN-SUFFIX,yepporn.com
 DOMAIN-SUFFIX,yes.xxx
 DOMAIN-SUFFIX,yeswegays.com
@@ -8867,6 +8874,7 @@ DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,cutt.ly
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
@@ -9058,11 +9066,23 @@ DOMAIN-SUFFIX,trellocdn.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tuta.io
 DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,err.sh
+DOMAIN-SUFFIX,hyper.is
+DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,now.sh
+DOMAIN-SUFFIX,static.fun
+DOMAIN-SUFFIX,title.sh
+DOMAIN-SUFFIX,turborepo.org
 DOMAIN-SUFFIX,vercel-dns.com
 DOMAIN-SUFFIX,vercel-status.com
 DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.blog
 DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vercel.events
+DOMAIN-SUFFIX,vercel.live
+DOMAIN-SUFFIX,vercel.pub
+DOMAIN-SUFFIX,vercel.sh
+DOMAIN-SUFFIX,vercel.store
 DOMAIN-SUFFIX,zeit-world.co.uk
 DOMAIN-SUFFIX,zeit-world.com
 DOMAIN-SUFFIX,zeit-world.net
