@@ -6918,11 +6918,11 @@ DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN,widgets.stripst.com
 DOMAIN-SUFFIX,collector.xhamster.com
-DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xnxx-cdn.com
-DOMAIN-SUFFIX,xnxx3.com
+DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xnxx.net
 DOMAIN-SUFFIX,xnxx.tv
+DOMAIN-SUFFIX,xnxx3.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,youjizz.com
@@ -9893,6 +9893,7 @@ DOMAIN-SUFFIX,amazonsdi.com
 DOMAIN-SUFFIX,amazonstudiosguilds.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,amazonvideodirect.com
+DOMAIN-SUFFIX,amzn.asia
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,amzn.to
 DOMAIN-SUFFIX,amznl.com
