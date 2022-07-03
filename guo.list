@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,gwiki.net
 DOMAIN-SUFFIX,gwins.org
 DOMAIN-SUFFIX,himalaya.exchange
-DOMAIN-SUFFIX,himalaya-exchange.zendesk.com
 DOMAIN-SUFFIX,himalayawashingtondc.org
 DOMAIN-SUFFIX,nfsc.global
 DOMAIN-SUFFIX,nfscdict.com
@@ -19,3 +18,4 @@ DOMAIN-SUFFIX,rexcha.com
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,yiqiedoushiganggangkaishi.org
+DOMAIN,himalaya-exchange.zendesk.com
